@@ -1,0 +1,15 @@
+.bg {
+  
+  background-color: rgb(143, 219, 196);
+}
+.btn-bg{
+    background-color: rgb(84, 158, 158);
+    color :white;
+    &:hover{
+        background-color: rgb(47, 129, 129);
+    }
+}
+#Input{
+  background-color: rgb(84, 158, 158);
+  color:white;
+}
